@@ -1,0 +1,6 @@
+# Introduction #
+
+Tree based editor for the wikipedia clade template
+Works on Win32 operating systems and should most likely work in Win32 emulators.
+
+
